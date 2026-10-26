@@ -1,41 +1,12 @@
 # 快打旋風6
 
-## 圖片來源
-
-`https://www.streetfighter.com/6/assets/images/character/select_character{1-33}_over.png`
-
-## 角色列表
-
-1. [x] 隆
-2. [x] 路克·沙利文
-3. [x] 傑米·肖
-4. [x] 春麗
-5. [x] 蓋爾
-6. [x] 金伯莉·傑克森
-7. [x] 韓蛛俐
-8. [x] 肯·馬斯達斯
-9. [x] 布蘭卡
-10. [x] 達爾西姆
-11. [x] 江戶主水本田/埃德蒙本田
-12. [x] 迪傑
-13. [x] 瑪濃·羅格朗
-14. [x] 瑪麗莎·羅塞蒂
-15. [x] JP
-16. [x] 桑吉爾夫
-17. [x] 莉莉·霍克
-18. [x] 嘉米
-19. [x] 拉希德
-20. [x] 阿鬼
-21. [x] 艾德
-22. [x] 豪鬼
-23. [x] 貝卡
-24. [x] 泰瑞·伯格
-25. [x] 不知火舞
-26. [x] 艾蓮娜
-27. [x] 沙加特
-28. [x] 深紅毒蛇
-29. [x] 艾力克斯·溫格
-30. [x] 英格麗特
-31. [x] 亞思閔
-32. [x] 阿爾俊·賈瑪迪
-33. [ ] 蒂法·洛克哈特
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img src="./1龍.png" width="120"><br>1. 龍 | <img src="./2路克·沙利文.png" width="120"><br>2. 路克·沙利文 | <img src="./3傑米·肖.png" width="120"><br>3. 傑米·肖 | <img src="./4春麗.png" width="120"><br>4. 春麗 |
+| <img src="./5蓋爾.png" width="120"><br>5. 蓋爾 | <img src="./6金伯莉·傑克森.png" width="120"><br>6. 金伯莉·傑克森 | <img src="./7韓蛛俐.png" width="120"><br>7. 韓蛛俐 | <img src="./8肯·馬斯達斯.png" width="120"><br>8. 肯·馬斯達斯 |
+| <img src="./9布蘭卡.png" width="120"><br>9. 布蘭卡<br><img src="./9布蘭卡-outfit3.png" width="120"><br>Outfit 3 | <img src="./10達爾西姆.png" width="120"><br>10. 達爾西姆 | <img src="./11江戶主水本田.png" width="120"><br>11. 江戶主水本田 | <img src="./12迪傑.png" width="120"><br>12. 迪傑 |
+| <img src="./13瑪濃·羅格朗.png" width="120"><br>13. 瑪濃·羅格朗 | <img src="./14瑪麗莎·羅塞蒂.png" width="120"><br>14. 瑪麗莎·羅塞蒂<br><img src="./14瑪麗莎·羅塞蒂-helmet.png" width="120"><br>Helmet | <img src="./15JP.png" width="120"><br>15. JP | <img src="./16桑吉爾夫.png" width="120"><br>16. 桑吉爾夫 |
+| <img src="./17莉莉·霍克.png" width="120"><br>17. 莉莉·霍克 | <img src="./18嘉米.png" width="120"><br>18. 嘉米 | <img src="./19拉希德.png" width="120"><br>19. 拉希德 | <img src="./20阿鬼.png" width="120"><br>20. 阿鬼 |
+| <img src="./21艾德.png" width="120"><br>21. 艾德 | <img src="./22豪鬼.png" width="120"><br>22. 豪鬼 | <img src="./23貝卡.png" width="120"><br>23. 貝卡 | <img src="./24泰瑞·伯格.png" width="120"><br>24. 泰瑞·伯格 |
+| <img src="./25不知火舞.png" width="120"><br>25. 不知火舞 | <img src="./26艾蓮娜.png" width="120"><br>26. 艾蓮娜<br><img src="./26艾蓮娜-outfit2.png" width="120"><br>Outfit 2 | <img src="./27沙加特.png" width="120"><br>27. 沙加特 | <img src="./28深紅毒蛇.png" width="120"><br>28. 深紅毒蛇 |
+| <img src="./29艾力克斯·溫格.png" width="120"><br>29. 艾力克斯·溫格 | <img src="./30英格麗特.png" width="120"><br>30. 英格麗特 | <img src="./31亞思閔.png" width="120"><br>31. 亞思閔 | <img src="./32阿爾俊·賈瑪迪.png" width="120"><br>32. 阿爾俊·賈瑪迪 |
